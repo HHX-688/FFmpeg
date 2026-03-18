@@ -1,6 +1,6 @@
 /**
  * @file main.cpp
- * @brief 应用程序入口文件
+ * @brief 应用程序入口测试
  */
 
 #include "mainwindow.h"  // 主窗口类头文件
