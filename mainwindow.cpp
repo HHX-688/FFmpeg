@@ -7,7 +7,7 @@
 */
 #include "mainwindow.h"
 #include "ui_mainwindow.h"
-#include "camerahandler.h"    // 摄像头处理类4
+#include "camerahandler.h"    // 摄像头处理类5
 #include "frameextractor.h"   // 视频抽帧类
 #include "videoconverter.h"   // 视频转码类
 #include <QFileDialog>         // 文件对话框
